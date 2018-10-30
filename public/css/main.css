@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Open-Sans);
 
 /* UNIVERSAL */
 
@@ -14,9 +14,8 @@ body {
 }
 
 /* ROOT FONT STYLES */
-
 * {
-  font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  font-family: 'Open Sans', Helvetica, sans-serif;
   color: #333447;
   line-height: 1.5;
 }
