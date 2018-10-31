@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+/* @import url(https://fonts.googleapis.com/css?family=Open+Sans); */
 
 /* UNIVERSAL */
 
@@ -15,7 +15,7 @@ body {
 
 /* ROOT FONT STYLES */
 * {
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   color: #333447;
   line-height: 1.5;
 }
