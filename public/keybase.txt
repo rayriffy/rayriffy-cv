@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/rayriffy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cv.rayriffy.com
+  * I am rayriffy (https://keybase.io/rayriffy) on keybase.
+  * I have a public key with fingerprint E9DB 85FE 488F 1776 A86E  AEDD A00E DA35 934E AD9A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101425292af08f553d59761ac53285fe0fa01a093ea33b953c462a14ed2220256890a",
+      "fingerprint": "e9db85fe488f1776a86eaedda00eda35934ead9a",
+      "host": "keybase.io",
+      "key_id": "a00eda35934ead9a",
+      "kid": "0101425292af08f553d59761ac53285fe0fa01a093ea33b953c462a14ed2220256890a",
+      "uid": "6228608953ad9f4efe81ef8d869ba919",
+      "username": "rayriffy"
+    },
+    "service": {
+      "hostname": "cv.rayriffy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1540964635,
+  "expire_in": 157680000,
+  "prev": "27183123d00b02041e382459de70ada21a60ec6e3e22615969694bdebb116bdf",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNDAnicrZJrTBRXFMeXFglFgVUoVTFihmyoYQvz3plVFENVwLANQlpIadc7O3dg
+YNndzu4Cy0Is5VWRRe0DE8AIwYKlQimlEQKNwVJT2ABSoUZqoeGRNlWaQiqU9GFn
+iH7rx9774eae+/v/zzk3ZzjwWVWAT3PQDPW+obPBxzvU6FS9fu9IuBvhrLwL0buR
+PLh5QDMP7Q5jnsgjegTFUIzEKZzFgYAyAkURPMXqaAyYKAJnKAGiAkAxgLIEBATB
+sRRhImkcYCTkcRxHcYpmWBQgWkQQLdlQskmixSHbQpbnFDXJMAKm09GAoSGAPA9Q
+FPKAoFiChIBnFWGO1a4o5OI4YIcxolWOyRfjZnn/wf/PdTs37WgcZ2iUkTE5i0BC
+ATIYFBieoVkOsBirgHYoWUA+lGkJuCRREFxIqRaRowWiCSofq3TyhDAVxDyFYkzW
+fFluk6wOq8lqlh9zHA6bXa+IHS6bQhdCzvjEx8iJFl7+SllRACW7aLUgekwmTQ5R
+McYoEmVpkiYoLQKLbKIEjaJCUDqaQeWl5IEFsiWuwxgCwwkeRTkUR0kMEgxOUiwP
+dSjgAY4BGoUmGhIQx2mMYml5kxwPOQ7DaI4XEKWztyxWRE/Jpg6QLXvaxWwLcDgl
+iJTeHMryVfkEqPy2PKPMmCrgOfXTyfuuPvix/eTo6V6fL5PP/NJyp37bnrLEuwMp
+n4/e23IH3XPgnbHvJxeKH9d2NyTs2n+/ecxTmVPhPluZdtrZ03kxie+vOzDy1aUd
+gYfKHtSGTH0BdkeQPyZvV6d9/d68Onb5cKTrRjpfFzH++58n3u7XpSf85sqsD1uq
+nq3hkmKKl3eeu47vu61N6PPVdMxNLOZ4fqBf1SamVQWBjuBtk9hYkDrPp9JLnvyr
+q3Tt12J/XlVVbixYGDjWV7RQVGFIT9UkeZsOdztzpcE3zxOvtF5qGfMsXVzszb+/
+eOTgjaaFT6aM7qvOnasbvo9619taL8zPot7l6bEJb/ru1IifQ65FTc+NG7aOhmeo
+alujR+ouj6Sa+/Z/6J9WwrrMq7dLUs70EMjf7bHcC/umWyIfPO8NKExsbxSiGsvU
+BwdPTHn0K6MbP3knuq7GGfyiVzdKrPbQwUx3iPrjru61+LjZtX+CB0J7mr89il8v
+fElTGZHW/2Jn7dmZD64w5xfncieuUTUdS6fahgvbY1iPvydsr+/R8Yjw3raMCyPu
++FPvaqrDYlcyrzRopjx3y0NnllRz8TXqQPN6wh+fNpYOVVU3PBpO/gjfmN/hSSUP
+SS9HamKPrdSsr65tlWc0K/q1qMaH6uA3vrlVOpBsjovflZWRJT7suLnX8FnTuB+X
+2zBaX0EM24KOJ6bcKu87N/kvi5PAlg==
+=W6r5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rayriffy
+
+==================================================================
